@@ -1,0 +1,26 @@
+/* 
+  Localization.strings
+  meeting
+
+  Created by Denis Burdin on 19.09.2022.
+  
+*/
+
+"no_events" = "Пока событий не запланировано";
+"event_description" = "Событие:\n\n%@\n\nНачало: %@,\n\nКонец: %@,\n\nОписание: %@";
+"event_name" = "Название события";
+"set_event_name" = "Укажите название события";
+"start_event" = "Начало";
+"end_event" = "Конец";
+"description_title" = "Описание";
+"save_button" = "Сохранить";
+"error_title" = "Ошибка";
+"error_text" = "Время начала не может быть больше времени завершения";
+"ok" = "OK";
+"warning_title" = "Предупреждение";
+"warning_text" = "Пожалуйста, укажите корректно время события";
+"ok_action_button" = "Хорошо";
+"create_tab" = "Создать";
+"display_tab" = "Просмотр";
+"main_page" = "Главная";
+"info_page" = "Просмотр";
